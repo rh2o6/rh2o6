@@ -20,41 +20,41 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Frontend-2B213A" alt="Custom Badge">
 </p>
-  <p align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  </p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS-2B213A?logo=css3&logoColor=b66839" alt="css3"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML-2B213A?logo=html5&logoColor=b66839" alt="html5"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-2B213A?logo=javascript&logoColor=b66839" alt="javascript"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/React-2B213A?logo=react&logoColor=b66839" alt="react"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-2B213A?logo=tailwindcss&logoColor=b66839" alt="tailwind"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-2B213A?logo=typescript&logoColor=b66839" alt="typescript"/>
+</p>
 
-  <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Backend-2B213A" alt="Custom Badge">
 </p>
-  <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=360/uploads/users/30/posts/16037/preview_image/flask.png" alt="flask" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  </p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/C-2B213A?logo=C&logoColor=b66839" alt="c"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Django-2B213A?logo=django&logoColor=b66839" alt="django"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-2B213A?logo=flask&logoColor=b66839" alt="flask"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-2B213A?logo=java&logoColor=b66839" alt="java"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/MSSQL-2B213A?logo=microsoft-sql-server&logoColor=b66839" alt="mssql"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-2B213A?logo=node.js&logoColor=b66839" alt="nodejs"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-2B213A?logo=postgresql&logoColor=b66839" alt="postgresql"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-2B213A?logo=python&logoColor=b66839" alt="python"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Spring-2B213A?logo=spring&logoColor=b66839" alt="spring"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Redis-2B213A?logo=redis&logoColor=b66839" alt="redis"/>
+</p>
 
-  <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Devops-2B213A" alt="Custom Badge">
 </p>
-  <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  </a>
-  </p>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-2B213A?logo=amazonaws&logoColor=b66839" alt="aws"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-2B213A?logo=gnu_bash&logoColor=b66839" alt="bash"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2B213A?logo=docker&logoColor=b66839" alt="docker"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-2B213A?logo=git&logoColor=b66839" alt="git"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-2B213A?logo=getpostman&logoColor=b66839" alt="postman"/>
+</p>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rh2o6&show_icons=true&locale=en&theme=synthwave" alt="rh2o6" />
