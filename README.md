@@ -49,11 +49,11 @@
   <img src="https://img.shields.io/badge/Devops-2B213A" alt="Custom Badge">
 </p>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-2B213A?logo=amazonaws&logoColor=b66839" alt="aws"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Bash-2B213A?logo=gnu_bash&logoColor=b66839" alt="bash"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-2B213A?logo=aws&logoColor=b66839" alt="aws"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-2B213A?logo=colorbash&logoColor=b66839" alt="bash"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-2B213A?logo=docker&logoColor=b66839" alt="docker"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Git-2B213A?logo=git&logoColor=b66839" alt="git"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Postman-2B213A?logo=getpostman&logoColor=b66839" alt="postman"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-2B213A?logo=postman&logoColor=b66839" alt="postman"/>
 </p>
 
   <p align="center">
