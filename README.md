@@ -5,11 +5,7 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=C4278D&background=2B213A&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=🔭+Currently+I'm+working+on+API.tf;🌱+Learning+Spring+Boot" alt="List SVG">
-    </a>
-  </p>
+  
 
 
 
