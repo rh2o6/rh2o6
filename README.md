@@ -69,3 +69,7 @@
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bushwack21">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bushwack21" alt="Data Card for Spotify">
 </a>
+
+
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
